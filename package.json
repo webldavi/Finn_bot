@@ -1,0 +1,17 @@
+{
+  "name": "greetBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index",
+    "start": "node src/index"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "lowdb": "^6.0.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "content": "",
+    "tts": false,
+    "embeds": [
+        {
+            "id": 10674342,
+            "title": "",
+            "description": "Seja bem vindo á comunidade",
+            "color": 2326507,
+            "fields": [
+                {
+                    "id": 360187099,
+                    "name": ":bookmark_tabs:| ID do usuário",
+                    "value": "",
+                    "inline": true
+                },
+                {
+                    "id": 739003312,
+                    "name": ":pushpin: | Tag do usuário",
+                    "value": "",
+                    "inline": true
+                },
+                {
+                    "id": 262526230,
+                    "name": ":calendar: | presente no discord desde",
+                    "value": "",
+                    "inline": true
+                }
+            ],
+            "author": {
+                "name": "GreetBot",
+                "icon_url": "https://cdn.discordapp.com/avatars/1138587072714768575/df17db3e907106d8b04712e1c45b4b1d.png?size=256"
+            },
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/avatars/1138587072714768575/df17db3e907106d8b04712e1c45b4b1d.png?size=256"
+              }
+        }
+    ],
+    "components": [],
+    "actions": {}
+}
